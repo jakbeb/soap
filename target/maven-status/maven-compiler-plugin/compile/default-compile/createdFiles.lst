@@ -1,7 +1,0 @@
-bebenista/jakub/szkolenie/soap/ObjectFactory.class
-config/WebServiceConfig.class
-startup/Application.class
-endpoints/LocalTimeEndpoint.class
-bebenista/jakub/szkolenie/soap/GetLocalTimeRequest.class
-bebenista/jakub/szkolenie/soap/package-info.class
-bebenista/jakub/szkolenie/soap/GetLocalTimeResponse.class
